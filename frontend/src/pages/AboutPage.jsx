@@ -11,7 +11,7 @@ function AboutPage() {
             <h1>About</h1>
             <div className="about-h3"></div>
             <h3>
-              The core mission of The Reading Corner is to assist individuals passionate about books, regardless of their expertise level, in discovering their next captivating read. Our aim is to furnish a user-friendly platform allowing individuals to effortlessly record the books they are presently engrossed in, explore fresh titles spanning diverse genres, and receive personalized recommendations aligned with their unique preferences. In essence, we strive to create an interactive space that caters to the diverse needs of book enthusiasts, fostering a seamless and enjoyable reading experience.
+              The Reading Corner's mission is to assist individuals passionate about books, regardless of their expertise level, in discovering their next captivating read. Our aim is to provide a user-friendly platform allowing individuals to effortlessly record the books they are presently reading in, explore new titles, and receive personalized recommendations aligned with their unique preferences. 
             </h3>
             <h3>What We Offer:</h3>
             <h3>
